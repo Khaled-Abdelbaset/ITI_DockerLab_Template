@@ -12,7 +12,7 @@ docker run hello-world
 #### 2. Check Container Status and Explain
 ```bash
 docker ps -a
-stoped because it didnot do any process
+stopped
 ```
 #### 3. Start the Stopped Container
 ```bash
@@ -87,6 +87,5 @@ docker run -d -p 80:8088 custom-nginx
 
 #### 4. Test the Container, open your browser and navigate to http://localhost:8088 to check if everything is okay
 ```bash
-
 ```
-
+![photo](https://github.com/Khaled-Abdelbaset/ITI_DockerLab_Template/blob/main/nginx.jpg)
